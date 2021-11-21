@@ -1,0 +1,20 @@
+{
+  "name": "nodejslab",
+  "version": "1.0.0",
+  "description": "这个仓库用于探索nodejs语法、架构、性能",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li1125435097/nodejsLab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li1125435097/nodejsLab/issues"
+  },
+  "homepage": "https://github.com/li1125435097/nodejsLab#readme"
+}
